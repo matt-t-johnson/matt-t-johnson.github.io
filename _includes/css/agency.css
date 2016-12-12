@@ -61,6 +61,11 @@ h6 {
     margin: 0 auto;
 }
 
+.img-responsive {
+    height: 200px;
+    max-height: 100%;
+}
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -269,7 +274,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.github.url }}/img/background.jpg');
+    background-image: url('{{ site.github.url }}/img/site-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
