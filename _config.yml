@@ -10,14 +10,16 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/matthewtjohnson1
+  - title: github
+    url: https://github.com/matt-t-johnson
   - title: twitter
     url: https://twitter.com/MattyJ116
   - title: facebook
     url: https://www.facebook.com/profile.php?id=765004224
   - title: stack-overflow
     url: http://stackoverflow.com/users/6587245/matt-johnson
-  - title: github
-    url: https://github.com/matt-t-johnson
 
 
 # Build settings
