@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Quick Plans
+subtitle: HTML, CSS, JavaScript, Firebase, Google Place API, Google Maps API, Gracenote API
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
+img: quick-plans.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: September 2016
+project-site: https://damp-stream-35666.herokuapp.com/
+github-repo: https://github.com/MARyan87/quick-plans
+description: A "dinner and a movie" app where users can enter their city, zip code, and the data they want to make plans to get search results for nearby restaurants and movies. Selecting any restaurant and movie theater combination automatically pulls up directions with Google Maps. Users can also quickly navigate to the restaurants' websites to view menus / make a reservation, or to Fandango to purchase tickets for the movie they selected.
 
 ---
