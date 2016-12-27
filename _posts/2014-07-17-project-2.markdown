@@ -1,12 +1,12 @@
 ---
 title: Quick Plans
-subtitle: HTML, CSS, JavaScript, Firebase, Google Place API, Google Maps API, Gracenote API
+subtitle: HTML, CSS, JavaScript, Google Maps / Google Place
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: quick-plans.png
+img: image-alt
 thumbnail: escape-thumbnail.png
-alt: image-alt
+alt: quick-plans.png
 project-date: September 2016
 project-site: https://damp-stream-35666.herokuapp.com/
 github-repo: https://github.com/MARyan87/quick-plans
