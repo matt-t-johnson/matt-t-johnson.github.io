@@ -5,11 +5,9 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: Bamazon2.png
-thumbnail: golden-thumbnail.png
-alt: Bamazon1.png
+thumbnail: Bamazon1.png
+alt: image-alt
 project-date: September 2016
-project-site: Coming Soon
-github-repo: https://github.com/matt-t-johnson/Bamazon
-description: A command line app built with Node.js that simulates a storefront where customers can place orders and deplete the store's inventory.
+description: A command line app built with Node.js that simulates a storefront where customers can place orders and deplete the store's inventory.<br><br>View on <a href="https://github.com/matt-t-johnson/Bamazon" target="_blank">Github</a>.
 
 ---

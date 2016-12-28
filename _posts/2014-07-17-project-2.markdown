@@ -4,12 +4,11 @@ subtitle: HTML, CSS, JavaScript, Google Maps / Google Place
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: image-alt
-thumbnail: escape-thumbnail.png
-alt: quick-plans.png
+img: quick-plans.png
+thumbnail: QuickPlansLive.png
+alt: image-alt
 project-date: September 2016
 project-site: https://damp-stream-35666.herokuapp.com/
-github-repo: https://github.com/MARyan87/quick-plans
-description: A "dinner and a movie" app where users can enter their city, zip code, and the data they want to make plans to get search results for nearby restaurants and movies. Selecting any restaurant and movie theater combination automatically pulls up directions with Google Maps. Users can also quickly navigate to the restaurants' websites to view menus / make a reservation, or to Fandango to purchase tickets for the movie they selected.
+description: A "dinner and a movie" app where users can enter their city, zip code, and the date they want to make plans to get search results for nearby restaurants and movies. Selecting any restaurant and movie theater combination automatically pulls up directions with Google Maps. Users can also quickly navigate to the restaurants' websites to view menus / make a reservation, or to Fandango to purchase tickets for the movie they selected.<br><br>View on <a href="https://github.com/matt-t-johnson/quick-plans" target="_blank">Github</a>.
 
 ---
