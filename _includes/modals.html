@@ -14,22 +14,11 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" id="{{ post.project-id }}">
                             <p>{{ post.description }}</p>
-                            <ul class="list-inline item-details">
-                                <li>Live Site:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-site }}</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
-                                </li>
-                                <li>GitHub:
-                                    <strong><a href="http://startbootstrap.com">{{ post.github-repo }}</a>
-                                    </strong>
-                                </li>
-                            </ul>
+                            <p>
+                                View on <a href="{{ post.github-repo }}" target="_blank">Github</a>.
+                            </p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

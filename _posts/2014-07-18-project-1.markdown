@@ -7,8 +7,9 @@ date: 2014-07-18
 img: coming-soon.png
 thumbnail: coming-soon.png
 alt: image-alt
+project-id: project-1
 project-date: December 2016
-project-site: Coming Soon
-description: A full stack web app where users will be able to generate names for fictional characters, places, organizations, etc. and store them in saved projects. Its target audience includes authors, screen-writers, game developers, and RPG players.<br><br>View on <a href="https://github.com/matt-t-johnson/name-generator" target="_blank">Github</a>.
+description: A full stack web app where users will be able to generate names for fictional characters, places, organizations, etc. and store them in saved projects. Its target audience includes authors, screen-writers, game developers, and RPG players.
+github-repo: https://github.com/matt-t-johnson/name-generator
 
 ---

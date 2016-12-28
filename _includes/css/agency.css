@@ -438,6 +438,18 @@ section h3.section-subheading {
     }
 }
 
+#project-1 {
+    height: 300px;
+}
+
+#project-2 {
+    height: 400px;
+}
+
+#project-3 {
+    height: 500px;
+}
+
 .timeline {
     position: relative;
     padding: 0;
