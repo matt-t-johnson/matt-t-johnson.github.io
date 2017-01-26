@@ -1,0 +1,15 @@
+---
+title: Train Schedule
+subtitle: JavaScript, HTML, Bootstrap, Firebase
+layout: default
+modal-id: 5
+date: 2014-07-17
+img: train-2.png
+thumbnail: train-1.png
+alt: image-alt
+project-id: project-5
+project-date: September 2016
+description: A simple app built with JavaScript, HTML, Bootstrap, and Firebase that simulates a train schedule. Users can add new trains to the schedule by saving them to the Firebase database.<br><br>Test out the <a href="https://damp-castle-36501.herokuapp.com/" target="_blank">Live Site</a>.<p>View on <a href="{{ post.github-repo }}" target="_blank">Github</a>.</p>
+github-repo: https://github.com/matt-t-johnson/TrainSchedule
+
+---
