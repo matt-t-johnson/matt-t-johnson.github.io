@@ -8,7 +8,7 @@ img: Bamazon2.png
 thumbnail: Bamazon1.png
 alt: image-alt
 project-id: project-3
-description: A command line app built with Node.js that simulates a storefront where customers can place orders and deplete the store's inventory.<p>View on <a href="{{ post.github-repo }}" target="_blank">Github</a>.</p>
+description: A command line app built with Node.js that simulates a storefront where customers can place orders and deplete the store's inventory.<p>View on <a href="https://github.com/matt-t-johnson/Bamazon" target="_blank">Github</a>.</p>
 github-repo: https://github.com/matt-t-johnson/Bamazon
 
 ---

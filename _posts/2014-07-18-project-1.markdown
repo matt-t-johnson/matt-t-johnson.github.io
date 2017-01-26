@@ -9,7 +9,7 @@ thumbnail: NameWright.png
 alt: image-alt
 project-id: project-1
 project-date: December 2016
-description: A full stack web app where users will be able to generate names for fictional characters, places, organizations, etc. and store them in saved projects. Its target audience includes authors, screen-writers, game developers, and RPG players.<br><br>Test out the <a href="https://tranquil-waters-23962.herokuapp.com/" target="_blank">Live Site</a>.<p>View on <a href="{{ post.github-repo }}" target="_blank">Github</a>.</p>
+description: A full stack web app where users will be able to generate names for fictional characters, places, organizations, etc. and store them in saved projects. Its target audience includes authors, screen-writers, game developers, and RPG players.<br><br>Test out the <a href="https://tranquil-waters-23962.herokuapp.com/" target="_blank">Live Site</a>.<p>View on <a href="https://github.com/matt-t-johnson/name-generator" target="_blank">Github</a>.</p>
 github-repo: https://github.com/matt-t-johnson/name-generator
 
 ---
