@@ -9,7 +9,7 @@ thumbnail: QuickPlansLive.png
 alt: image-alt
 project-id: project-2
 project-date: September 2016
-description: A "dinner and a movie" app where users can enter their city, zip code, and the date they want to make plans to get search results for nearby restaurants and movies. Selecting any restaurant and movie theater combination automatically pulls up directions with Google Maps. Users can also quickly navigate to the restaurants' websites to view menus / make a reservation, or to Fandango to purchase tickets for the movie they selected.<br><br>Test out the <a href="https://damp-stream-35666.herokuapp.com/" target="_blank">Live Site</a>.<p>View on <a href="{{ post.github-repo }}" target="_blank">Github</a>.</p>
 github-repo: https://github.com/MARyan87/quick-plans
+description: A "dinner and a movie" app where users can enter their city, zip code, and the date they want to make plans to get search results for nearby restaurants and movies. Selecting any restaurant and movie theater combination automatically pulls up directions with Google Maps. Users can also quickly navigate to the restaurants' websites to view menus / make a reservation, or to Fandango to purchase tickets for the movie they selected.<br><br>Test out the <a href="https://damp-stream-35666.herokuapp.com/" target="_blank">Live Site</a>.<p>View on <a href="{{ github-repo }}" target="_blank">Github</a>.</p>
 
 ---
