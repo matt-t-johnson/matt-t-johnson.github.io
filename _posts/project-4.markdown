@@ -1,0 +1,13 @@
+---
+title: Block Breaker
+subtitle: C#, Unity, Gimp
+layout: default
+modal-id: 4
+date: 2014-07-16
+img: bb-2.png
+thumbnail: bb-start.png
+alt: image-alt
+project-id: project-4
+description: A 2D block-breaker game I started building in the Unity game engine using C#. So far I have two full levels, a start screen, and win/lose screens. I used Gimp to manipulate images and create sprites for the game.
+
+---
