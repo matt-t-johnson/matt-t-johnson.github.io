@@ -275,7 +275,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.github.url }}/img/site-bg.jpg');
+    background-image: url('{{ site.github.url }}/img/site-bg-c.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -331,7 +331,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding: 80px 0;
 }
 
 section h2.section-heading {
@@ -351,7 +351,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 80px 0;
     }
 }
 
@@ -676,7 +676,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/img/map-image-c.png');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -737,6 +737,10 @@ section#contact:-ms-input-placeholder {
 
 section#contact .text-danger {
     color: #e74c3c;
+}
+
+#ss-row-2 {
+    margin-top: 20px;
 }
 
 footer {

@@ -1,15 +1,15 @@
 ---
 title: Name Generator
-subtitle: Node.js, Express.js, MongoDB
+subtitle: React, Node.js, Express.js, MongoDB
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: coming-soon.png
-thumbnail: coming-soon.png
+img: NameWright2.png
+thumbnail: NameWright.png
 alt: image-alt
 project-id: project-1
 project-date: December 2016
-description: A full stack web app where users will be able to generate names for fictional characters, places, organizations, etc. and store them in saved projects. Its target audience includes authors, screen-writers, game developers, and RPG players.
+description: A full stack web app where users will be able to generate names for fictional characters, places, organizations, etc. and store them in saved projects. Its target audience includes authors, screen-writers, game developers, and RPG players.<br><br>Test out the <a href="https://tranquil-waters-23962.herokuapp.com/" target="_blank">Live Site</a>.
 github-repo: https://github.com/matt-t-johnson/name-generator
 
 ---
